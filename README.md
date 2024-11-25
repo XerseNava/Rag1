@@ -17,3 +17,5 @@ El resultado es el plan de estudio segpun sus capacidades.
 ## Acerca de la solución
 
 Para obtener la respuesta adecuada, se utiliza el LLM "llama3-8b-8192" desarrollado por Meta, a través del motor de Groq. Como base de datos vectorial se utiliza FAISS (Facebook AI Similarity Search), y como Embedding el de Cohere. La ventaja de estas tecnologías usadas es que son de uso libre hasta la fecha de creación del modelo. Cabe mencionar que es importante que el usuario de este modelo debe tener su propia API_KEY para poder correrlo.
+
+
