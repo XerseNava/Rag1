@@ -4,4 +4,9 @@ Primer Proyecto de creación de asistente conversacional con python. Utilizado e
 
 ## Cómo usarlo
 
-Ejecuta el archivo "streamapp.py" a través de streamlit
+Ejecuta el archivo "streamapp.py" en consola en el entorno virtual creado:
+
+```python
+streamlit run streamapp.py
+```
+
